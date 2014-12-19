@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  beer_name: MyString
+  beer_alcvol: 9.99
+  brewery: 
+  style: 
+  color: 
+
+two:
+  beer_name: MyString
+  beer_alcvol: 9.99
+  brewery: 
+  style: 
+  color: 
